@@ -1,0 +1,10 @@
+D:\polytehnica\Diploma\IRB_Coder\IRB_Coder\bin\Debug\IRB_Coder.exe.config
+D:\polytehnica\Diploma\IRB_Coder\IRB_Coder\bin\Debug\IRB_Coder.exe
+D:\polytehnica\Diploma\IRB_Coder\IRB_Coder\bin\Debug\IRB_Coder.pdb
+D:\polytehnica\Diploma\IRB_Coder\IRB_Coder\obj\Debug\IRB_Coder.csprojResolveAssemblyReference.cache
+D:\polytehnica\Diploma\IRB_Coder\IRB_Coder\obj\Debug\IRB_Coder.Form1.resources
+D:\polytehnica\Diploma\IRB_Coder\IRB_Coder\obj\Debug\IRB_Coder.Properties.Resources.resources
+D:\polytehnica\Diploma\IRB_Coder\IRB_Coder\obj\Debug\IRB_Coder.csproj.GenerateResource.Cache
+D:\polytehnica\Diploma\IRB_Coder\IRB_Coder\obj\Debug\IRB_Coder.exe
+D:\polytehnica\Diploma\IRB_Coder\IRB_Coder\obj\Debug\IRB_Coder.pdb
+D:\polytehnica\Diploma\IRB_Coder\IRB_Coder\obj\Debug\IRB_Coder.Resource1.resources
